@@ -8,13 +8,44 @@
       <link href="/2022/11/20/node%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
       <url>/2022/11/20/node%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</url>
       
-        <content type="html"><![CDATA[<h2 id="node环境配置"><a href="#node环境配置" class="headerlink" title="node环境配置"></a>node环境配置</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="node环境配置">node环境配置</h2>]]></content>
       
+      
+      <categories>
+          
+          <category> node </category>
+          
+      </categories>
       
       
         <tags>
             
             <tag> node </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>npm环境配置</title>
+      <link href="/2022/11/20/npm%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
+      <url>/2022/11/20/npm%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<h2 id="npm环境配置">npm环境配置</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> npm </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> npm </tag>
             
         </tags>
       
