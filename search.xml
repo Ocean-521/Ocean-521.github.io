@@ -4,23 +4,23 @@
   
     
     <entry>
-      <title>node环境配置</title>
+      <title>uniapp-搭建基础项目(vue2)</title>
       <link href="/2022/11/20/node%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
       <url>/2022/11/20/node%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</url>
       
-        <content type="html"><![CDATA[<h2 id="node环境配置">node环境配置</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="uniapp-搭建基础项目-vue2">uniapp-搭建基础项目(vue2)</h2><p>基础的uniapp项目搭建流程</p><h3 id="一-创建项目">一、创建项目</h3><ol><li><p>新建项目</p><img src="https://ocean-resources.oss-cn-shenzhen.aliyuncs.com/blog/uniapp/uniapp-%E6%90%AD%E5%BB%BA%E5%9F%BA%E7%A1%80%E9%A1%B9%E7%9B%AE%28vue2%29/image1.png" style="zoom:80%;" /><p>2、项目结构</p><img src="https://ocean-resources.oss-cn-shenzhen.aliyuncs.com/blog/uniapp/uniapp-%E6%90%AD%E5%BB%BA%E5%9F%BA%E7%A1%80%E9%A1%B9%E7%9B%AE%28vue2%29/image2.png" style="zoom:80%;" /><h3 id="二-请求模块">二、请求模块</h3></li></ol>]]></content>
       
       
       <categories>
           
-          <category> node </category>
+          <category> uniapp </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> node </tag>
+            <tag> uniapp </tag>
             
         </tags>
       
